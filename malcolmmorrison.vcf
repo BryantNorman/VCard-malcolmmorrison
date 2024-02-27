@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Morrison;Malcolm;;;
+FN:Malcolm Morrison
+ORG:GMG Energy Ltd
+ADR;TYPE=WORK:Upper Bighouse, Strath Halladale, 
+Forsinard, Sutherland
+KW13 6YU
+TITLE:
+TEL;TYPE=CELL:+447789922666
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:malcolm@gmgenergy.co.uk
+URL;TYPE=Digital Business Card:https://bryantnorman.github.io/VCard/
+URL:www.gmgenergy.co.uk
+URL;TYPE=Website:www.gmgenergy.co.uk
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Treated timber products, grown and processed in Sutherland & Caithness
+UID:EnBizCard-100484325
+END:VCARD
