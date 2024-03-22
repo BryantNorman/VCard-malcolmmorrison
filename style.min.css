@@ -1,4 +1,5 @@
 body {
+    display: block;
     margin: 0 auto;
     width: 100%;
     padding: 0;
@@ -176,8 +177,8 @@ main {
 #info {
     display: flex;
     flex-direction: column;
-    justify-content: left;
-    align-items: start;
+    justify-content: center;
+    align-items: center;
     margin-top: 1rem;
     line-height: 1.25;
     word-break: break-word
