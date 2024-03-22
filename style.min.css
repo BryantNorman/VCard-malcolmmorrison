@@ -4,7 +4,7 @@ body {
     padding: 0;
     max-width: 30rem;
     color: #2c3825;
-    position: relative
+    position: relative;
 }
 
 p {
@@ -176,8 +176,8 @@ main {
 #info {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
+    justify-content: left;
+    align-items: start;
     margin-top: 1rem;
     line-height: 1.25;
     word-break: break-word
